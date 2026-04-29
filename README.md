@@ -5,6 +5,7 @@ End-to-end Customer Churn Analysis using Python, SQL, and Power BI with actionab
 
 ## Project Overview
 This project focuses on analyzing customer churn in the telecom industry to identify key factors influencing customer retention and provide data-driven business recommendations.
+*This project helps businesses reduce customer churn by identifying high-risk customers and enabling data-driven retention strategies.*
 
 ## Objectives
 - Identify customers likely to churn  
